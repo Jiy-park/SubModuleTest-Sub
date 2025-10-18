@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "Sub-Module"
 include(":app")
 include(":submodule:module-1")
+include(":submodule2")
