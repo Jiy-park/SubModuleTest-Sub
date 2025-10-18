@@ -1,4 +1,4 @@
-package com.dd2d.submodule2
+package com.dd2d.submodule.v1
 
 import org.junit.Test
 

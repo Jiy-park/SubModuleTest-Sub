@@ -1,4 +1,4 @@
-package com.dd2d.submodule.module_1
+package com.dd2d.submodule.v1
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
   fun useAppContext() {
     // Context of the app under test.
     val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-    assertEquals("com.dd2d.submodule.module_1.test", appContext.packageName)
+    assertEquals("com.dd2d.submodule.v1.test", appContext.packageName)
   }
 }
